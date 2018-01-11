@@ -1,10 +1,10 @@
-import java.util.Arrays;
-import java.util.stream.Collectors;
-
 /**
  * @author Z
  * @since January 10 2018
  */
+
+import java.util.Arrays;
+import java.util.stream.Collectors;
 
 public class CubeTosser
 {

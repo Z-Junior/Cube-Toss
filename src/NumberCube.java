@@ -1,4 +1,7 @@
-import java.util.ArrayList;
+/**
+ * @author Z
+ * @since January 10 2018
+ */
 
 public class NumberCube
 {
@@ -41,7 +44,7 @@ public class NumberCube
             }
             else
             {
-                iIteration++;
+                iIteration = i;
                 iLen = 0;
             }
         }

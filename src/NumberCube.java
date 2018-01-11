@@ -23,7 +23,7 @@ public class NumberCube
         return iResults;
     }
 
-    public int getLongestRun(int[] iList)
+    public static int getLongestRun(int[] iList)
     {
         if (iList.length <= 0)
             return -1;

@@ -28,7 +28,7 @@ public class NumberCube
         if (iList.length <= 0)
             return -1;
 
-        int iMaxIndex = -1, iMaxRun = -1, iIteration = 0, iLen = 0;
+        int iMaxIndex = -1, iMaxRun = 1, iIteration = 0, iLen = 0;
 
         for (int i = 0; i < iList.length; i++)
         {
